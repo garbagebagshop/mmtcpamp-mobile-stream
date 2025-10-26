@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mmtcpamp-mobile-stream
+    env: docker
+    plan: free
